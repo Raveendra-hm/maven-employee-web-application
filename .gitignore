@@ -2,6 +2,6 @@
 .project
 /.settings
 .target/
-target/
+target1/
 target.py1
 
