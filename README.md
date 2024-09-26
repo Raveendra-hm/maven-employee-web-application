@@ -1,4 +1,4 @@
-[![Build Status](http://3.110.122.226:8080/buildStatus/icon?job=tom-mail&build=4)](http://3.110.122.226:8080/job/tom-mail/4/)
+[![Build Status](http://3.110.122.226:8080/buildStatus/icon?job=tom-mail)](http://3.110.122.226:8080/job/tom-mail/)
 # Sample Maven Application: maven-employee-web-application
 maven-employee-web-application.
 
