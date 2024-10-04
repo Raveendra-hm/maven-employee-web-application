@@ -99,7 +99,7 @@
                 <snapshotRepository>
                         <id>nexus</id>
                         <name>Nexus Snapshot Repository</name>
-                        <url>${nexus.host.url}/repository/maven-hosted-snapshot/</url>
+                        <url>${nexus.host.url}/repository/maven-hosted-snapshots/</url>
                 </snapshotRepository>
         </distributionManagement>
 
